@@ -1,11 +1,3 @@
-# erln8
+## DEPRECATED
 
-Installation and usage docs [here]().
-
-# License
-
-http://www.apache.org/licenses/LICENSE-2.0.html
-
----
-
-© 2015 Dave Parfitt
+Please visit the [erln8](https://github.com/erln8/erln8) repo.
